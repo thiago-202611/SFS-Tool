@@ -1,0 +1,31 @@
+=====================================================================
+          SFS TOOL v5.4 - TERMINOS DE USO Y LICENCIA
+=====================================================================
+Copyright (c) 2026 - Thiago
+
+1. PROPIEDAD INTELECTUAL:
+Este software y su codigo fuente son propiedad exclusiva de Thiago. 
+Se permite el uso personal para fines tecnicos y educativos. 
+Queda prohibida su venta o redistribucion sin permiso del autor.
+
+2. ADVERTENCIA DE FASE TEMPRANA:
+Este software se encuentra en una FASE EXPERIMENTAL (Alpha/Beta). 
+Muchas de sus funciones no han sido testeadas en todos los modelos
+de dispositivos y pueden presentar errores criticos.
+
+3. EXENCION DE RESPONSABILIDAD (CLAUSULA "NO ME HAGO CARGO"):
+EL AUTOR NO SE HACE RESPONSABLE POR:
+- Dispositivos "brickeados" (convertidos en ladrillos).
+- Perdida de datos, fotos, contactos o particiones.
+- Daños fisicos al hardware o perdida de garantia oficial.
+- El mal uso de las herramientas de borrado de FRP o Particiones.
+
+EL USO DE ESTA HERRAMIENTA ES BAJO TU PROPIO RIESGO Y RESPONSABILIDAD. 
+Si no estas de acuerdo con estos terminos, borra el programa ahora.
+
+4. SIN GARANTIAS:
+El software se entrega "TAL CUAL" (AS IS), sin garantias de ningun 
+tipo sobre su funcionamiento o efectividad.
+
+"ESTAS ADVERTIDO. SI ROMPES ALGO, ES TU PROBLEMA".
+=====================================================================
